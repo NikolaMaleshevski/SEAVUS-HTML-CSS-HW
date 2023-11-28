@@ -1,0 +1,72 @@
+#canvas {
+    background-color: rgb(49, 43, 40) ;
+    height: 500px;
+    width: 500px;
+    position: fixed;
+    top: 20%;
+    right: 40%;
+}
+
+#red {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 350px;
+    width: 350px;
+    background-color: rgb(236, 83, 83);
+}
+
+#beige1 {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-color: beige;
+    width: 130px;
+    height: 150px;
+}
+
+#beige2 {
+    position: absolute;
+    top: 175px;
+    left: 5px;
+    background-color: beige;
+    width: 130px;
+    height: 178px;
+}
+
+#blue {
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    width: 130px;
+    height: 130px;
+    background-color: aqua;
+}
+
+#beige3 {
+    background-color: beige;
+    position: absolute;
+    bottom: 5px;
+    left: 145px;
+    height: 130px;
+    width: 325px;
+}
+
+#beige4 {
+    position: absolute;
+    top: 365px;
+    right: 5px;
+    width: 15px;
+    height: 60px;
+    background-color: beige;
+}
+
+#yellow {
+    position: absolute;
+    right: 5px;
+    bottom: 3px;
+    background-color: yellow;
+    width: 15px;
+    height: 60px;
+
+}
